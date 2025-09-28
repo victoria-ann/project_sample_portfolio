@@ -1,5 +1,4 @@
-This repository showcases a collection of my work in Python, R, and SQL. It includes various examples that demonstrate my skills in data analysis, bioinformatics, and software development.
-
+This repository showcases a collection of my work in Python, R, and SQL. It includes various examples that demonstrate my skills in data analysis, bioinformatics, and software development. Projects are also available in separate repositories on my profile for convenient viewing. 
 
 ***Contact***
 
